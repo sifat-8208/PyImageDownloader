@@ -2,6 +2,9 @@
 
 This project is a simple command-line tool for downloading images from the web. It validates the URL, checks if the content is an image, and saves it to your local machine with a specified filename.
 
+# Project Screenshot
+![Project Screenshot](image.png)
+
 ## Features
 
 - **URL Validation**: Ensures the provided URL is valid and points to an image.
